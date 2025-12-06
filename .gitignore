@@ -1,0 +1,19 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Операционные системы
+.DS_Store
