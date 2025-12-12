@@ -1,4 +1,4 @@
-# 🚀 Project management system API
+# Project management system API
 
 Простой бэкенд для управления задачами и досками на TypeScript.
 
