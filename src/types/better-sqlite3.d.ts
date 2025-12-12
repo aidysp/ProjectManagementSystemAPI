@@ -1,4 +1,3 @@
-// src/types/better-sqlite3.d.ts
 declare module 'better-sqlite3' {
     class Statement {
         run(...params: any[]): { lastInsertRowid: number; changes: number };
