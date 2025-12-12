@@ -1,4 +1,4 @@
-# Project management system server 🚀
+# 🚀 Project management system server
 
 Простой бэкенд для управления задачами и досками на TypeScript.
 
